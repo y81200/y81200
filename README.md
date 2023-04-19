@@ -10,7 +10,7 @@
 </br>
 </br>
 
-🌱 I'm learning all the skills little by little.
+🌱 I'm learning everything little by little.
 
 </br>
 </br>

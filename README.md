@@ -1,6 +1,6 @@
 ### Hi there 👋
-# 📫 email : y81200@naver.com
-# 🌱 전반적은 개발에 대해 배우는 중입니다.
+📫 email : y81200@naver.com
+🌱 전반적인 개발에 대해 배우는 중입니다.
 <!--
 **y81200/y81200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
